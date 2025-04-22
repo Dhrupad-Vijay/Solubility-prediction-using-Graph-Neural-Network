@@ -1,0 +1,3 @@
+-> This is a GNN-based regression model used to predict water solubility of molecules.
+-> The model used is GCN with 2 hidden layers developed using PyTorch Geometrics.
+-> The model was trained on ESOL dataset.
